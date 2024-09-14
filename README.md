@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Навигация по репозиториям на git:
+
+📊 Исследовательский проект
+- [Исследование БП](https://github.com/AnastasiaMoshkova/PDReserach)
+- [LeapMotionPlayback](https://github.com/AnastasiaMoshkova/LeapMotionPlayback) (используется в проекте)
+  
+📚 Учебные примеры для студентов
+- [Обучение нейронной сети](https://github.com/AnastasiaMoshkova/signalProcessing) Hydra + Pytorch + Weights & Biases + Optuna
+- [Простой GUI на Python](https://github.com/AnastasiaMoshkova/microscope_application) Графический интерфейс
+- wrapper python under C -> soon
+- wrapper JNI under C -> soon
+  
+📗 Курсы
+- [Python-BMT](https://github.com/AnastasiaMoshkova/Python-BMT) Курс по Python
+  
