@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Навигация по репозиториям:
 
 📊 Исследовательский проект
-- [Исследование БП](https://github.com/AnastasiaMoshkova/PDReserach)
-- [LeapMotionPlayback](https://github.com/AnastasiaMoshkova/LeapMotionPlayback) (используется в проекте)
+- [Исследование БП PDResearch](https://github.com/AnastasiaMoshkova/PDReserach)
+- [LeapMotionPlayback](https://github.com/AnastasiaMoshkova/LeapMotionPlayback) (используется в проекте PDResearch)
   
 📚 Учебные примеры
 - [Обучение нейронной сети](https://github.com/AnastasiaMoshkova/signalProcessing) Hydra + Pytorch + Weights & Biases + Optuna
