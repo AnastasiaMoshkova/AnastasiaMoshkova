@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - [Обучение нейронной сети](https://github.com/AnastasiaMoshkova/signalProcessing) Hydra + Pytorch + Weights & Biases + Optuna
 - [Простой GUI на Python](https://github.com/AnastasiaMoshkova/microscope_application) Графический интерфейс
 - [python wrapper under C](https://github.com/AnastasiaMoshkova/wrapper_python_under_C/tree/main) python-обертка над С-кодом
-- wrapper JNI under C -> soon
+- JNI wrapper under C -> soon
   
 📗 Курсы
 - [Python-BMT](https://github.com/AnastasiaMoshkova/Python-BMT) Курс по Python
