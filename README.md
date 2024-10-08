@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 📊 Исследовательский проект
 - [Исследование БП - PDResearch](https://github.com/AnastasiaMoshkova/PDReserach)
 - [LeapMotionPlayback](https://github.com/AnastasiaMoshkova/LeapMotionPlayback) (используется в проекте PDResearch)
+- [PointMarker](https://github.com/AnastasiaMoshkova/PointMarker/tree/master) (используется в проекте PDResearch для разметки данных)
   
 📚 Учебные примеры
 - [Обучение нейронной сети](https://github.com/AnastasiaMoshkova/signalProcessing) Hydra + Pytorch + Weights & Biases + Optuna
