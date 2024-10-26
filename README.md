@@ -30,4 +30,5 @@ Here are some ideas to get you started:
   
 📗 Курсы
 - [Python-BMT](https://github.com/AnastasiaMoshkova/Python-BMT) Курс по Python
+- [ML-BMT](https://github.com/AnastasiaMoshkova/ML-BMT) Курс по Python
   
